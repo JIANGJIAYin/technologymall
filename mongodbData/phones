@@ -1,0 +1,252 @@
+/* 1 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94704"),
+    "productId" : "20190110068",
+    "productName" : "魅族 16th",
+    "salePrice" : 2498,
+    "productImage" : "魅族16th.jpg",
+    "productSummary" : "限时领券更优惠 领完即止 | 骁龙845 屏下指纹",
+    "type" : "meizu"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94706"),
+    "productId" : "20190110064",
+    "productName" : "HUAWEI Mate 20 Pro",
+    "salePrice" : 6799,
+    "productImage" : "huaweimate20pro.png",
+    "productSummary" : "仅UD版支持屏内指纹 华为感恩季，每天10:08开售，享农行/招行6期免息，预计2月3日以前发货",
+    "type" : "huawei"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94708"),
+    "productId" : "20190110069",
+    "productName" : "魅族 15",
+    "salePrice" : 1498,
+    "productImage" : "魅族15.jpg",
+    "productSummary" : "2000万暗光双摄",
+    "type" : "meizu"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9470a"),
+    "productId" : "20190110067",
+    "productName" : "荣耀Magic2",
+    "salePrice" : 3799,
+    "productImage" : "rongyaoMagic2.png",
+    "productSummary" : "魔法全视屏 麒麟980AI芯片 屏内指纹 超广角AI三摄",
+    "type" : "huawei"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9470c"),
+    "productId" : "20190110070",
+    "productName" : "红米6 Pro",
+    "salePrice" : 1049,
+    "productImage" : "hongmi6-pro.jpg",
+    "productSummary" : "高颜值大电量 红米旗舰",
+    "type" : "xiaomi"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9470e"),
+    "productId" : "20190110065",
+    "productName" : "HUAWEI nova 3i",
+    "salePrice" : 1899,
+    "productImage" : "huaweinova3i.png",
+    "productSummary" : "限时直降100，享6期免息，限量赠礼，赠品有限，赠完即止",
+    "type" : "huawei"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94710"),
+    "productId" : "20190110071",
+    "productName" : "小米8 青春版",
+    "salePrice" : 1399,
+    "productImage" : "mi8青春版.jpg",
+    "productSummary" : "潮流镜面渐变色，自拍旗舰",
+    "type" : "xiaomi"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94712"),
+    "productId" : "20190110072",
+    "productName" : "魅族 Note8",
+    "salePrice" : 1298,
+    "productImage" : "魅族Note8.jpg",
+    "productSummary" : "人脸指纹双解锁",
+    "type" : "meizu"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94714"),
+    "productId" : "20190110073",
+    "productName" : "魅族 16 X",
+    "salePrice" : 1798,
+    "productImage" : "魅族16X.jpg",
+    "productSummary" : "新年有新机 低至1798起 | 骁龙710 屏下指纹",
+    "type" : "meizu"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94716"),
+    "productId" : "20190110077",
+    "productName" : "小米6X",
+    "salePrice" : 1249,
+    "productImage" : "mi6x.jpg",
+    "productSummary" : "轻薄美观的拍照手机",
+    "type" : "xiaomi"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94718"),
+    "productId" : "20190110074",
+    "productName" : "魅族 X8",
+    "salePrice" : 1498,
+    "productImage" : "魅族X8.jpg",
+    "productSummary" : "人脸+指纹双解锁",
+    "type" : "meizu"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9471a"),
+    "productId" : "20190110075",
+    "productName" : "魅族 V8 标配版",
+    "salePrice" : 799,
+    "productImage" : "魅族V8高配版.jpg",
+    "productSummary" : "高清双摄 指纹+人脸双解锁",
+    "type" : "meizu"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9471c"),
+    "productId" : "20190110076",
+    "productName" : "小米MIX 2S",
+    "salePrice" : 2499,
+    "productImage" : "mix2s.jpg",
+    "productSummary" : "陶瓷机身 手机中的艺术品",
+    "type" : "xiaomi"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9471e"),
+    "productId" : "20190110078",
+    "productName" : "小米MIX 3",
+    "salePrice" : 3299,
+    "productImage" : "mix3.jpg",
+    "productSummary" : "磁动力滑盖全面屏",
+    "type" : "xiaomi"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94720"),
+    "productId" : "20190110079",
+    "productName" : "红米6",
+    "salePrice" : 729,
+    "productImage" : "hongmi6.jpg",
+    "productSummary" : "小屏高性能的双摄手机",
+    "type" : "xiaomi"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94722"),
+    "productId" : "20190110062",
+    "productName" : "华为畅享9 Plus",
+    "salePrice" : 1499,
+    "productImage" : "huaweichangxiang9plus.png",
+    "productSummary" : "1600万AI智慧四摄",
+    "type" : "huawei"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94724"),
+    "productId" : "20190110063",
+    "productName" : "HUAWEI 麦芒7",
+    "salePrice" : 2199,
+    "productImage" : "huaweimaimang7.png",
+    "productSummary" : "领券立减200！赠多彩蓝牙耳机",
+    "type" : "huawei"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94726"),
+    "productId" : "20190110080",
+    "productName" : "红米6A",
+    "salePrice" : 569,
+    "productImage" : "hongmi6a.jpg",
+    "productSummary" : "好用好看不贵",
+    "type" : "xiaomi"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94728"),
+    "productId" : "20190110060",
+    "productName" : "华为畅享8e",
+    "salePrice" : 999,
+    "productImage" : "huawei8e.png",
+    "productSummary" : "领券立减100元，再赠AM115耳机",
+    "type" : "huawei"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9472a"),
+    "productId" : "20190110081",
+    "productName" : "红米Note 5",
+    "salePrice" : 869,
+    "productImage" : "hongmi5.jpg",
+    "productSummary" : "红米国民品质，拍照专家",
+    "type" : "xiaomi"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9472c"),
+    "productId" : "20190110082",
+    "productName" : "小米8 SE",
+    "salePrice" : 1699,
+    "productImage" : "mi8se.jpg",
+    "productSummary" : "三星 AMOLED 全面屏",
+    "type" : "xiaomi"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c9472e"),
+    "productId" : "20190110061",
+    "productName" : "华为畅享8 Plus",
+    "salePrice" : 1499,
+    "productImage" : "huawei8plus.png",
+    "productSummary" : "购买即赠商城积分，积分可抵现",
+    "type" : "huawei"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5c453fe923bc406f02c94730"),
+    "productId" : "20190110066",
+    "productName" : "荣耀10青春版",
+    "salePrice" : 1399,
+    "productImage" : "ronngyao10qcb.png",
+    "productSummary" : "幻彩渐变 2400万AI自拍",
+    "type" : "huawei"
+}
