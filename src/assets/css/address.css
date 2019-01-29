@@ -1,0 +1,161 @@
+.address-container{
+    /*background: #f5f7fc;*/
+    margin: 0 100px 60px;
+    /*overflow: hidden;*/
+}
+.address-container .shipping-step{
+    width: 100%;
+    margin: 40px 0;
+}
+.address-container .shipping-step li{
+    font-weight: 300;
+    width: 25%;
+    float: left;
+    text-align: center;
+    padding: 26px 0;
+    border-bottom: 1px solid #ccc;
+    position: relative;
+    color: #ccc;
+}
+.address-container .shipping-step li.focus-list{
+    color: #00c3f5;
+    border-bottom-color: #00c3f5;
+}
+.address-container .shipping-step li:after{
+    content: '';
+    display: block;
+    width: 16px;
+    height: 16px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    background: #ccc;
+    position: absolute;
+    bottom: -10px;
+    /*left: 148px;*/
+    left: 50%;
+}
+.address-container .shipping-step li.focus-list::after{
+    background: #00c3f5;
+}
+.address-container .shipping p.title{
+    font-weight: 300;
+    font-size: 18px;
+    padding: 10px 0;
+    letter-spacing: 2px;
+}
+.address-container .shipping-address .address-list li{
+    float: left;
+    width: 24%;
+    height: 162px;
+    background: #fff;
+    margin: 0 20px 10px 0;
+    padding: 12px;
+    border: 1px solid transparent;
+}
+.address-container .shipping-address .address-list li>p{
+    font-weight: 300;
+}
+.address-list li>p.user-address{
+    margin-top: 5px;
+    height: 64px;
+    font-size: 14px;
+}
+.address-list li>p.set-address{
+    margin-top: 18px;
+}
+.address-list li>p.set-address>.set{
+    display: inline-block;
+    width: 92%;
+
+}
+.address-list li>p.set-address>.set:hover,
+.on-focus{
+    color: #00c3f5;
+}
+.address-list li>p.set-address>i:hover{
+    color: #00c3f5;
+}
+.shipping-address .address-list .on-focus-li{
+  border: 1px solid #00c3f5 !important;
+}
+.address-container .shipping-address .address-list li:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 15px rgba(0,0,0,.05);
+    border: 1px solid #00c3f5;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.address-list .add-address-item{
+    padding-top: 32px;
+    text-align: center;
+}
+.address-list li .add-address{
+    font-size: 54px;
+    color: #666;
+}
+.address-list .add-address-item p{
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 12px;
+}
+.address-container .more-address{
+    padding: 10px 0 20px;
+    text-align: center;
+}
+.address-container .more-address a,
+.address-container .more-address i{
+    color: #00c3f5;
+    font-weight: 300;
+}
+.address-container .shipping-methods .methods-list{
+    width: 24%;
+    background: #fff;
+}
+.address-container .next-btn{
+    float: right;
+    width: 150px;
+    text-align: center;
+    line-height: 35px;
+    letter-spacing: 2px;
+    font-size: 16px;
+    font-weight: 300;
+    border: 1px solid rgba(0,195,245,.6);
+    background: rgba(0,195,245,.5);
+    padding: 5px 0;
+    margin-top: 20px;
+    color: #fff;
+}
+.address-container .next-btn:hover{
+    background: rgba(0,195,245,1);
+    border: 1px solid rgba(0,0,0,.05);
+    cursor: pointer;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.methods-list .info-wrap{
+  padding: 12px;
+  font-weight: 300;
+  color: #666;
+  border: 1px solid #00c3f5;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+.methods-list .info-wrap .free-info{
+  font-size: 14px;
+  padding: 10px 0;
+  margin-top: 10px;
+  font-weight: 700;
+}
+.methods-list .info-wrap .last-info{
+  font-size: 14px;
+  margin-top: 20px;
+  font-size: 12px;
+}

@@ -1,0 +1,49 @@
+.container-wrap{
+    margin: 0 100px;
+    /*background: #00c3f5;*/
+}
+.container-wrap .container,
+.container-wrap .order-confirmation{
+    text-align: center;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+.container-wrap .container .big-title{
+    font-size: 24px;
+}
+.container-wrap .container .small-title{
+    font-size: 18px;
+}
+.container-wrap .order-confirmation{
+    color: #666;
+}
+.container-wrap .order-confirmation span:first-child{
+    padding-right: 22px;
+}
+.container-wrap .backwards-btn-wrap{
+    margin: 26px 0;
+    text-align: center;
+}
+.container-wrap .backwards-btn-wrap .backwards-btn{
+    margin:0 22px;
+    width: 150px;
+    text-align: center;
+    line-height: 35px;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: 300;
+    border: 1px solid rgba(0,195,245,.6);
+    background: rgba(0,195,245,.5);
+    color: #fff;
+    padding: 5px 0;
+}
+.container-wrap .backwards-btn-wrap .backwards-btn:hover{
+    background: rgba(0,195,245,1);
+    border: 1px solid rgba(0,0,0,.05);
+    cursor: pointer;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
