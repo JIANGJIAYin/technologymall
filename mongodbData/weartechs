@@ -1,0 +1,229 @@
+/* 1 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c538"),
+    "productId" : "20190110058",
+    "productName" : "荣耀手环3 标准版",
+    "salePrice" : 129,
+    "productImage" : "荣耀手环3.png",
+    "type" : "穿戴设备"
+}
+
+/* 2 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c53a"),
+    "productId" : "20190110059",
+    "productName" : "荣耀手环4 Running版",
+    "salePrice" : 99,
+    "productImage" : "荣耀手环4.png",
+    "type" : "穿戴设备"
+}
+
+/* 3 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c53c"),
+    "productId" : "20190110042",
+    "productName" : "小米米家后视镜行车记录仪",
+    "salePrice" : 369,
+    "productImage" : "后视镜行车记录仪.png",
+    "type" : "智能出行"
+}
+
+/* 4 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c53e"),
+    "productId" : "20190110044",
+    "productName" : "米家骑记电助力折叠自行车",
+    "salePrice" : 2999,
+    "productImage" : "米家骑记电助折叠自行车.jpg",
+    "type" : "智能出行"
+}
+
+/* 5 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c540"),
+    "productId" : "20190110045",
+    "productName" : "九号平衡车",
+    "salePrice" : 1949,
+    "productImage" : "小米九号平衡车.jpg",
+    "type" : "智能出行"
+}
+
+/* 6 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c542"),
+    "productId" : "20190110049",
+    "productName" : "小米手环3",
+    "salePrice" : 159,
+    "productImage" : "小米手环3.jpg",
+    "type" : "穿戴设备"
+}
+
+/* 7 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c544"),
+    "productId" : "20190110042",
+    "productName" : "九号平衡车 Plus",
+    "salePrice" : 3399,
+    "productImage" : "九号平衡车plus.png",
+    "type" : "智能出行"
+}
+
+/* 8 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c546"),
+    "productId" : "20190110055",
+    "productName" : "华为手环B3 青春版",
+    "salePrice" : 499,
+    "productImage" : "华为手环b3.png",
+    "type" : "穿戴设备"
+}
+
+/* 9 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c548"),
+    "productId" : "20190110056",
+    "productName" : "HUAWEI VR 2",
+    "salePrice" : 1799,
+    "productImage" : "华为vr2.png",
+    "type" : "穿戴设备"
+}
+
+/* 10 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c54a"),
+    "productId" : "20190110043",
+    "productName" : "米家车载逆变器",
+    "salePrice" : 189,
+    "productImage" : "米家车载逆变器.jpg",
+    "type" : "智能出行"
+}
+
+/* 11 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c54c"),
+    "productId" : "20190110050",
+    "productName" : "小米手环3 NFC版",
+    "salePrice" : 189,
+    "productImage" : "小米手环3nfc!200x200.jpg",
+    "type" : "穿戴设备"
+}
+
+/* 12 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c54e"),
+    "productId" : "20190110051",
+    "productName" : "小米VR一体机 超级玩家版",
+    "salePrice" : 1899,
+    "productImage" : "小米vr一体机超级玩家版.jpg",
+    "type" : "穿戴设备"
+}
+
+/* 13 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c550"),
+    "productId" : "20190110046",
+    "productName" : "小米米家电动滑板车",
+    "salePrice" : 1949,
+    "productImage" : "小米米家电动滑板车.jpg",
+    "type" : "智能出行"
+}
+
+/* 14 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c552"),
+    "productId" : "20190110052",
+    "productName" : "小米VR一体机面罩",
+    "salePrice" : 99,
+    "productImage" : "小米vr一体机面罩.jpg",
+    "type" : "穿戴设备"
+}
+
+/* 15 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c554"),
+    "productId" : "20190110053",
+    "productName" : "小米VR一体机手柄",
+    "salePrice" : 169,
+    "productImage" : "小米vr一体机手柄!200x200.jpg",
+    "type" : "穿戴设备"
+}
+
+/* 16 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c556"),
+    "productId" : "20190110058",
+    "productName" : "荣耀畅玩手环 A2",
+    "salePrice" : 129,
+    "productImage" : "荣耀畅玩手环a2.png",
+    "type" : "穿戴设备"
+}
+
+/* 17 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c558"),
+    "productId" : "20190110059",
+    "productName" : "荣耀手表魔法系列",
+    "salePrice" : 888,
+    "productImage" : "荣耀手表.png",
+    "type" : "穿戴设备"
+}
+
+/* 18 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c55a"),
+    "productId" : "20190110040",
+    "productName" : "米家车载空气净化器滤芯",
+    "salePrice" : 49,
+    "productImage" : "车载空气净化器滤芯.png",
+    "type" : "智能出行"
+}
+
+/* 19 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c55c"),
+    "productId" : "20190110047",
+    "productName" : "小米米家智能后视镜",
+    "salePrice" : 899,
+    "productImage" : "小米米家智能后视镜.jpg",
+    "type" : "智能出行"
+}
+
+/* 20 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c55e"),
+    "productId" : "20190110048",
+    "productName" : "小米手环 2",
+    "salePrice" : 99,
+    "productImage" : "小米手环2.jpg",
+    "type" : "穿戴设备"
+}
+
+/* 21 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c560"),
+    "productId" : "20190110054",
+    "productName" : "华为手环 3e 跑步精灵",
+    "salePrice" : 99,
+    "productImage" : "华为手环3e.png",
+    "type" : "穿戴设备"
+}
+
+/* 22 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c562"),
+    "productId" : "20190110041",
+    "productName" : "70迈高清倒车影像摄像头",
+    "salePrice" : 99,
+    "productImage" : "倒车摄影摄像头.jpg",
+    "type" : "智能出行"
+}
+
+/* 23 */
+{
+    "_id" : ObjectId("5c46966193985d929ce8c564"),
+    "productId" : "20190110057",
+    "productName" : "HUAWEI WATCH GT 运动款",
+    "salePrice" : 1288,
+    "productImage" : "华为watch-gt.png",
+    "type" : "穿戴设备"
+}
